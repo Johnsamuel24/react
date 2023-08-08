@@ -84,7 +84,7 @@ function Home() {
         ,React.createElement('p',{className:"card-text"}
         
         
-        ,React.createElement('div',{id:'d1'},'Unlimited Internet Upto 100Mbps')
+        ,React.createElement('div',{id:'d1'},'Unlimited Internet Upto 1000Mbps + Additional Benefits')
         
         ,React.createElement('div',{id:'d1'},'Unlimited Local/STD Calls')
         
