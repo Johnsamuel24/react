@@ -41,7 +41,7 @@ function Home() {
         
         ,React.createElement('div',{className:"card-body"}
        
-        ,React.createElement('h1',null,'Plan 1')
+        ,React.createElement('h1',null,'Plan 2')
         ,React.createElement('h2',{className:"card-title"},'₹ 1999 '
         ,React.createElement('span',{className:"period"},'/ month'))
         ,React.createElement('hr',null)
@@ -77,7 +77,7 @@ function Home() {
         
         ,React.createElement('div',{className:"card-body"}
        
-        ,React.createElement('h1',null,'Plan 1')
+        ,React.createElement('h1',null,'Plan 3')
         ,React.createElement('h2',{className:"card-title"},'₹ 2999 '
         ,React.createElement('span',{className:"period"},'/ month'))
         ,React.createElement('hr',null)
