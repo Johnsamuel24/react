@@ -1,0 +1,82 @@
+.p1{
+    font-family: 'Times New Roman', Times, serif;
+    font-size: 50px;
+    margin-top: 5px;
+    margin-bottom: 20px;
+    color:white;
+}
+.card-group{
+display: flex;
+flex-wrap: wrap;
+justify-content: space-around;
+
+}
+
+.card{
+   
+   width:20rem;
+   
+   margin: 10px;
+   border-radius: 25px;
+   font-family:"Times New Roman";
+ background-image: url('img3.jpg');
+ background-repeat: no-repeat;
+ background-position: relative;
+
+}
+.card-title{
+    text-align: center;
+    
+}
+.card-body{
+
+    font-family:"Times New Roman";
+  
+    
+}
+.card-text{
+    padding: 10px;
+    font-size: 20px;
+}
+
+#d1{
+    font-size: 25px;
+    padding:5px;
+    margin-bottom:17px;
+    
+}
+
+#d23{
+    padding:5px;
+    font-size: 25px;
+    margin-top:17px;
+    font-style:oblique;
+   
+}
+#d2{
+    padding:5px;
+    font-size: 25px;
+    margin-top:25px;
+  
+
+}
+.mb-2{
+    font-size: 25px;
+    border-radius: 13px;
+    padding:20px;
+    background: rgb(73,5,35);
+background: linear-gradient(90deg, rgba(73,5,35,1) 0%, rgba(134,13,20,0.8519782913165266) 100%);
+}
+#d24{
+    margin-top: 122px;
+}
+
+#d25{
+    margin-top: 43px;
+}
+.link{
+    font-size: 25px;
+    font-family: 'Times New Roman', Times, serif;
+    margin-top:10px;
+}
+
